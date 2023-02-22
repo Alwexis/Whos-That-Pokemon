@@ -1,0 +1,17 @@
+<div class="thumbnail">
+    <img src="https://imgur.com/eGn6p8K.png">
+</div>
+<div class="content">
+    <p>
+        This is a project that I made to learn more about how Java works when I was on my first year of university. I used JFrame to create the UI and also I used the <a href="https://pokeapi.co/">PokeAPI</a> data in order to get the images.
+        I'm thinking in reworking it in the future, with a better UI and a cleanest code (with better practices, etc).
+    </p>
+    <div class="button-container">
+        <a href="https://github.com/Alwexis/Whos-That-Pokemon" target="_blank">
+            Source Code
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+                <path d="M5.854 4.854a.5.5 0 1 0-.708-.708l-3.5 3.5a.5.5 0 0 0 0 .708l3.5 3.5a.5.5 0 0 0 .708-.708L2.707 8l3.147-3.146zm4.292 0a.5.5 0 0 1 .708-.708l3.5 3.5a.5.5 0 0 1 0 .708l-3.5 3.5a.5.5 0 0 1-.708-.708L13.293 8l-3.147-3.146z"/>
+            </svg>
+        </a>
+    </div>
+</div>
