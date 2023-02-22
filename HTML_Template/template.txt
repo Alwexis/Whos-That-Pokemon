@@ -1,5 +1,5 @@
 <div class="thumbnail">
-    <img src="https://imgur.com/eGn6p8K.png">
+    <img src="https://github.com/Alwexis/Whos-That-Pokemon/blob/main/HTML_Template/assets/whos_that_pokemon_1.png?raw=true">
 </div>
 <div class="content">
     <p>
